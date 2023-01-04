@@ -1,0 +1,12 @@
+.users__list {
+  list-style: none;
+}
+
+.users {
+  margin: 2px;
+  font-size: 20px;
+}
+
+.user__item {
+  text-decoration: none;
+}
